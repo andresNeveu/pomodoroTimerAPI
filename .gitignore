@@ -1,0 +1,9 @@
+env*.log
+*.pot
+*.pyc
+__pycache__/
+env
+.env
+.pytest_cache
+TaskSolidFastAPI.code-workspace
+compose.yaml
